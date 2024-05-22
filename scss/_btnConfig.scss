@@ -1,5 +1,5 @@
-@use "utilities";
-@use "config";
+@use "utilities" as *;
+@use "config" as *;
 
 %btn {
   display: inline-block;
